@@ -1,0 +1,14 @@
+.frase_de_entrada-formatada h1 {
+    color: blue;
+    font-size: 40px;
+}
+
+.links-formatados a {
+    background-color: yellow;
+    padding: 15px;
+}
+
+.frase_de_entrada-formatada p {
+    font-size: 20px;
+    font-weight: bold;
+}

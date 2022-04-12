@@ -1,0 +1,21 @@
+.nome_da_loja p {
+    color: blue;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.links-formatados a {
+    background-color: yellow;
+    padding: 15px;
+}
+
+.descricoes {
+    font-size: 27px;
+
+}
+
+.descricoes_precos {
+    font-size: 20px;
+    color: blue;
+
+}

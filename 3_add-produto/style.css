@@ -1,0 +1,17 @@
+.nome_da_loja p {
+    color: blue;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.links-formatados a {
+    background-color: yellow;
+    padding: 15px;
+}
+
+.alteracoes_inputs {
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
